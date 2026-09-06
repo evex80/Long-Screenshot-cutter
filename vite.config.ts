@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Long-Screenshot-cutter/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
