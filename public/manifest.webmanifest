@@ -2,6 +2,7 @@
   "name": "Long Screenshot Slicer & Email Optimizer",
   "short_name": "Screenshot Slicer",
   "description": "Slice long screenshots into polished, email-ready images.",
+  "id": "/Long-Screenshot-cutter/",
   "start_url": "/Long-Screenshot-cutter/",
   "scope": "/Long-Screenshot-cutter/",
   "display": "standalone",
@@ -9,10 +10,10 @@
   "theme_color": "#1E293B",
   "icons": [
     {
-      "src": "/Long-Screenshot-cutter/icon.svg",
-      "sizes": "any",
+      "src": "icon.svg",
+      "sizes": "192x192 512x512",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
