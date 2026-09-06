@@ -1,0 +1,6 @@
+{
+  "name": "Long Screenshot Slicer & Email Optimizer",
+  "description": "Automated seamless long-screenshot segmentation, smart whitespace seam detection, high-resolution readability enhancement, and email-ready HTML stitching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
